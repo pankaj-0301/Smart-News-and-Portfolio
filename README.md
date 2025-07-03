@@ -13,7 +13,7 @@ A modern web dashboard for Indian stock market news, portfolio tracking, and AI-
 - [Next.js](https://nextjs.org/) (React framework)
 - [Tailwind CSS](https://tailwindcss.com/) (styling)
 - Gemini API (Google AI, via API key)
-- (Optional) News scraping/APIs for Indian markets
+- News scraping/APIs for Indian markets
 
 ## ⚡ Getting Started
 
@@ -46,10 +46,3 @@ A modern web dashboard for Indian stock market news, portfolio tracking, and AI-
 - **Portfolio News:** See news filtered for your holdings.
 - **AI Analysis:** Click "AI Analysis" to get sentiment and impact summary for your portfolio.
 
-## 💡 Notes
-- If broker API integration is not possible, portfolio is simulated via user input.
-- News sources are scraped or fetched from free APIs (customize as needed).
-- AI analysis uses Gemini API (Google AI). You must provide your own API key.
-
-## 📄 License
-MIT 
