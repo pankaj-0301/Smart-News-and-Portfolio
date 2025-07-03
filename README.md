@@ -7,7 +7,7 @@ A modern web dashboard for Indian stock market news, portfolio tracking, and AI-
 - **Portfolio Linking:** Add your stock holdings manually (mock portfolio) or integrate with broker APIs (if available).
 - **Filtered News:** See news relevant to your portfolio stocks.
 - **AI Analysis:** Uses Gemini API (Google AI) to analyze news and summarize the impact on your portfolio (Positive, Neutral, Negative).
-- **Beautiful UI:** Responsive, user-friendly dashboard built with Next.js and Tailwind CSS.
+- **UI:** Responsive, user-friendly dashboard built with Next.js and Tailwind CSS.
 
 ## 🛠️ Tech Stack
 - [Next.js](https://nextjs.org/) (React framework)
